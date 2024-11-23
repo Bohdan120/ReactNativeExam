@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# React Native
+*.log
+*.lock
+yarn-debug.log*
+yarn-error.log*
+.vscode/
+.idea/
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Android/Builds
+android/build/
+android/app/build/
+*.keystore
+
+# iOS
+ios/Pods/
+ios/build/
